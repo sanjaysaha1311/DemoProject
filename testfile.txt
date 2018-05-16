@@ -1,1 +1,3 @@
 sample file (edit 1)
+line added (edit 2)
+
